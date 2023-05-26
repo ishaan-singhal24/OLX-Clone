@@ -1,4 +1,4 @@
-# shop_app
+# OLX Clone
 
 A new Flutter project.
 
